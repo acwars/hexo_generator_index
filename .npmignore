@@ -1,0 +1,6 @@
+test/
+tmp/
+coverage/
+*.log
+gulpfile.js
+appveyor.yml
